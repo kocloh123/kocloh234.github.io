@@ -1,0 +1,67 @@
+ .u-section-1 {
+  background-image: url("images/g89ba1b6382af548c7fd589b60714340372f13a6a7e3938553f395ce35acbba6dec740d257fa4adb06f0ebf741bac155c9b244aa48aee74fc4ed5efd717acfacd_1280.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 149px;
+  }
+} .u-section-2 {
+  background-image: url("images/g56cb350cb4f45f98da56d9e8ef9d0207c295e429718df6898fb20adc9e606292af2075de6c38463bb4da94dfa24da498f6092a64e500251a8e0971ed7eb089c3_1280.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 232px auto 60px;
+}
